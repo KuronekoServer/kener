@@ -23,7 +23,7 @@
 {/if}
 <svelte:head>
 	<title>{data.site.title}</title>
-	<link rel="icon" id="kener-app-favicon" href="{base}/logo96.png" />
+	<link rel="icon" id="app-favicon" href="{base}/favicon.ico" />
 	{#each Object.entries(data.site.metaTags) as [key, value]}
 		<meta name={key} content={value} />
 	{/each}
