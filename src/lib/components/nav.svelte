@@ -27,8 +27,6 @@
 	}
 </script>
 
-<div class="one"></div>
-
 <header class="relative z-50 w-full">
 	<div class="container flex h-14 items-center">
 		<a
