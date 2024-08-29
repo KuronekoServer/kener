@@ -21,7 +21,7 @@
 				{/if}
 				{#if data.site.hero.title}
 					<h1
-						class="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-5xl font-extrabold leading-snug text-transparent"
+						class="bg-gradient-to-r bg-clip-text text-5xl font-extrabold leading-snug text-transparent"
 					>
 						{data.site.hero.title}
 					</h1>
