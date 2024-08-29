@@ -21,7 +21,7 @@
 				{/if}
 				{#if data.site.hero.title}
 					<h1
-						class="bg-gradient-to-r from-white bg-clip-text text-5xl font-extrabold leading-snug text-transparent"
+						class="bg-gradient-to-r from-white bg-clip-text text-5xl"
 					>
 						{data.site.hero.title}
 					</h1>
