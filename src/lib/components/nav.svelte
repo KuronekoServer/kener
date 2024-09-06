@@ -37,7 +37,7 @@
 					<img src={data.site.logo} class="h-8" alt={data.site.title} srcset="" />
 				{/if}
 				{#if data.site.title}
-					<span class="hidden text-[15px] font-bold md:inline-block lg:text-base">
+					<span class="hidden text-[15px] font-bold md:inline-block text-white lg:text-base">
 						{data.site.title}
 					</span>
 				{/if}
